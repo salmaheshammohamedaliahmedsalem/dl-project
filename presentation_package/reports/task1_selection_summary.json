@@ -1,0 +1,18 @@
+{
+  "selected_method": "labelcase",
+  "task1_macro_dice": 0.8974733623108159,
+  "task1_view_dice": {
+    "2CH": 0.8882784970045218,
+    "4CH": 0.9014523794806782,
+    "SAX": 0.9026892104472478
+  },
+  "candidate_contribution_counts": {
+    "ovr256_model": 84,
+    "model_a": 21,
+    "main2d": 20,
+    "reference_2d": 12,
+    "reference_3d": 7,
+    "model_b": 6
+  },
+  "note": "Sanitized presentation summary. Full raw local report remains in the local project folder."
+}

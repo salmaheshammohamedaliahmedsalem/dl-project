@@ -1,0 +1,12 @@
+submission,date,overall_score,notes
+FINAL_MAIN_TASK1_TASK2.zip,2026-06-13,0.64,Fresh final rebuild of Task1 local-selected masks plus saved LGE Task2 model
+TRY_TASK1_LOCALBEST_TASK2_LGE_SAVED.zip,2026-06-13 15:16,0.64,Best known scored package
+TRY_FT_E2_TASK2.zip,2026-06-13 15:05,0.64,Fine-tuned epoch 2 single checkpoint package
+TRY_TASK1_LOCALBEST_SELECT_TASK2_LG.zip,2026-06-13 12:21,0.63,Task1 local-selected masks plus earlier LGE package
+TRY_TASK2_LGE_QUICK_TASK1_OVR256.zip,2026-06-13 11:57,0.63,Task2 LGE quick model plus OVR256 Task1
+TRY_OVR256_AUTO_TASK2.zip,2026-06-13 05:50,0.43,Single OVR256 Task1 checkpoint plus stronger Task2
+TRY_SEG_MODELB_EF_BEST_TASK2.zip,2026-06-13 03:47,0.42,Reference 2D segmentation plus Model B EF plus stronger Task2
+model_b_task1_task2.zip,2026-06-13 02:44,0.42,Model B Task1 plus stronger Task2
+model_b.zip,2026-06-12 17:07,0.34,Original Model B submission
+model_a.zip,2026-06-12 16:59,0.34,Original Model A submission
+UPLOAD_NOW.zip,2026-06-12 16:45,0.30,First shape-correct working package

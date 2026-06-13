@@ -1,0 +1,25 @@
+{
+  "final_submission": "SUBMISSIONS_ORGANIZED/UPLOAD_THIS/FINAL_MAIN_TASK1_TASK2.zip",
+  "final_sha256": "7bd069310f4e0d12a84d91185a88c293a2831a39a4a5b3bee1594f2aa3382fb8",
+  "task1_report": "SUBMISSIONS_ORGANIZED/UPLOAD_THIS/FINAL_MAIN_TASK1_SELECT_TASK2_SOURCE.report.json",
+  "task2_checkpoint": "OUTPUTS_ORGANIZED/outputs/task2_lge_quick_ovr2d/best_model.pth",
+  "task1_macro_dice": 0.8974733623108159,
+  "task1_view_dice": {
+    "2CH": 0.8882784970045218,
+    "4CH": 0.9014523794806782,
+    "SAX": 0.9026892104472478
+  },
+  "task2_view_dice": {
+    "2CH": 0.5792084017204946,
+    "4CH": 0.7157034251180916,
+    "SAX": 0.5622568377098406,
+    "RAS": 0.7985557614143082,
+    "mean": 0.6639311064906837
+  },
+  "best_public_score": 0.64,
+  "models_for_presentation": {
+    "Model A": "MultiViewAttentionUNet / ResNet34 encoder + CBAM + attention-gated decoder",
+    "Model B": "Task1CINEMultiViewNetV2 / multi-view cine-specific residual attention U-Net",
+    "Main Model": "Validation-selected Task1 ensemble + MultiHeadResUNetPP2D LGE Task2 model"
+  }
+}
